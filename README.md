@@ -3,8 +3,9 @@
      Android and web development
 
 - 🌱 I’m currently learning..
-     full stack web development
-     Android development (Java)
+     full stack web development,
+     Android development (Java),
+     Basically everything 
 
 - 💞️ I’m looking to collaborate on..
       anything just ask :)
@@ -13,8 +14,9 @@
     anuragbiswas512@gmail.com
 
 -💻 My skills are (currently.. I'm constantly learning)...
-    Core java
-    Web development
+    Core java,
+    Web development,
+    More comming soon
 
 Feel free to contact if needed ☺️
 
