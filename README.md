@@ -13,8 +13,8 @@
 - 📫 How to reach me ...
     anuragbiswas512@gmail.com
 
--💻 My skills are (currently.. I'm constantly learning)...
-    Core java,
+-💻 My skills are
+    <b>Core java</b>,
     CSS,React,js,ES6,SQL,MongoDB,Node.js
 
 Feel free to contact if needed ☺️
