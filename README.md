@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Anurag Biswas
+- 👋 <h2> Hi, I’m Anurag Biswas</h2>
 - 👀 I’m interested in..
-     Software development
+     <b><h3>Software development</h3></b>
 
 - 🌱 I’m currently learning..
     <b> MERN stack</b>,
