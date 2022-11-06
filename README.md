@@ -1,22 +1,21 @@
-- 👋 Hi, I’m @AnuragBiswas1389 [Anurag Biswas]
+- 👋 Hi, I’m Anurag Biswas
 - 👀 I’m interested in..
-     Android and web development
+     Software development
 
 - 🌱 I’m currently learning..
-     full stack web development,
-     Android development (Java),
-     Basically everything 
+     MERN stack,
+     Software development (Java),
+     
 
 - 💞️ I’m looking to collaborate on..
-      anything just ask :)
+      web or software development
 
 - 📫 How to reach me ...
     anuragbiswas512@gmail.com
 
 -💻 My skills are (currently.. I'm constantly learning)...
     Core java,
-    Web development,
-    More comming soon
+    CSS,React,js,ES6,SQL,MongoDB,Node.js
 
 Feel free to contact if needed ☺️
 
