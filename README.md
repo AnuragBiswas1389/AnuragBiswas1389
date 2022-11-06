@@ -3,21 +3,19 @@
      Software development
 
 - 🌱 I’m currently learning..
-     MERN stack,
-     Software development (Java),
+    <b> MERN stack</b>,
+    <b> Software development (Java)</b>,
      
 
 - 💞️ I’m looking to collaborate on..
-      web or software development
+      <b>web or software development</b>
 
 - 📫 How to reach me ...
-    anuragbiswas512@gmail.com
+    <b>anuragbiswas512@gmail.com</b>
 
 -💻 My skills are
     <b>Core java</b>,
-    CSS,React,js,ES6,SQL,MongoDB,Node.js
-
-Feel free to contact if needed ☺️
+    <b>CSS,React,js,ES6,SQL,MongoDB,Node.js</b>
 
 <!---
 AnuragBiswas1389/AnuragBiswas1389 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
