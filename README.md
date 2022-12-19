@@ -1,4 +1,4 @@
-- 👋 <h2> Hi, I’m Anurag Biswas</h2>
+<h2> Hi, I’m Anurag Biswas</h2>
 - 👀 I’m interested in..
      <b><h3>Software development</h3></b>
 
