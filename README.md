@@ -1,5 +1,5 @@
 <h2> Hi, I’m Anurag Biswas</h2>
-- 👀 I’m interested in..
+ I’m interested in..
      <b><h2>Software development</h2></b>
 
 - 🌱 I’m currently learning..
