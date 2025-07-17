@@ -14,7 +14,6 @@
     <b>anuragbiswas512@gmail.com</b>
 
 -💻 My skills are
-    <b>Core java</b>,
     <b>CSS,React,js,ES6,SQL,MongoDB,Node.js</b>
 
 <!---
